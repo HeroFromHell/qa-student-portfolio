@@ -2,7 +2,7 @@
 **Target:** https://practice.expandtesting.com/  
 **Scope:** /login, /register, Forgot Password Form  
 **Test Period:** Fall 2025  
-**Environment:** macOS Tahoe 26.1 | Google Chrome v131.x | MacBook Pro (14-inch, Apple M3) | 3024×1964
+**Environment:** macOS Tahoe 26.1 | Chrome v131.x | MacBook Pro 14" | 3024×1964
 
 ## Legend
 - Priority: P1 (High) / P2 (Medium) / P3 (Low)
